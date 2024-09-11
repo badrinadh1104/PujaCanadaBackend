@@ -1,0 +1,58 @@
+﻿Product Name,Category,Price (USD),Discount (%),Availability,Quantity
+Ganesh Idol,Idols,29.99,10,TRUE,100
+Lakshmi Idol,Idols,34.99,15,TRUE,80
+Shiva Idol,Idols,39.99,20,TRUE,70
+Diya (oil lamp),Lighting,9.99,5,TRUE,200
+Agarbatti (incense sticks),Incense,4.99,10,TRUE,500
+Puja Thali (plate),Puja Items,14.99,8,TRUE,150
+Rudraksha Mala (prayer beads),Accessories,19.99,12,TRUE,100
+Tulsi Plant,Plants,12.99,5,TRUE,50
+Camphor,Puja Items,3.99,5,TRUE,300
+Chandan Powder (sandalwood powder),Puja Items,6.99,8,TRUE,200
+Kumkum (vermilion powder),Puja Items,2.99,5,TRUE,500
+Holy Water,Puja Items,4.99,10,TRUE,100
+Puja Bell,Puja Items,12.99,15,TRUE,80
+Puja Mat,Puja Items,9.99,10,TRUE,200
+"Puja Book (Bhagavad Gita, Ramayana)",Books,19.99,20,TRUE,100
+Puja Mandap (altar),Puja Items,99.99,25,TRUE,50
+Aarti Lamp,Lighting,16.99,15,TRUE,120
+Havan Kund (fire altar),Puja Items,49.99,20,TRUE,30
+Havan Samagri (fire altar materials),Puja Items,24.99,15,TRUE,150
+Om Pendant,Jewelry,14.99,10,TRUE,200
+Ganesh Pendant,Jewelry,16.99,15,TRUE,150
+Lakshmi Pendant,Jewelry,18.99,20,TRUE,100
+"Puja Dress (saree, dhoti, kurta)",Clothing,39.99,25,TRUE,80
+Puja Thread (mouli),Puja Items,1.99,5,TRUE,500
+Puja Colors (gulal),Puja Items,4.99,10,TRUE,300
+Puja Decoration Items,Decor,9.99,15,TRUE,200
+Puja Gift Set,Gift Sets,29.99,20,TRUE,100
+Puja Essentials Kit,Kits,49.99,25,TRUE,50
+Puja Aroma Diffuser,Aromatherapy,24.99,15,TRUE,150
+Hanuman Idol,Idols,34.99,15,TRUE,90
+Navagraha Idol Set,Idols,59.99,20,TRUE,60
+Lord Vishnu Idol,Idols,44.99,18,TRUE,75
+Brass Diya,Lighting,12.99,8,TRUE,180
+Copper Puja Thali,Puja Items,19.99,12,TRUE,120
+Crystal Rudraksha Mala,Accessories,24.99,15,TRUE,80
+Tulsi Plant in Brass Pot,Plants,16.99,10,TRUE,40
+Natural Camphor,Puja Items,4.99,5,TRUE,350
+Sandalwood Incense Sticks,Incense,5.99,10,TRUE,450
+Organic Kumkum,Puja Items,3.99,5,TRUE,550
+Holy Water in Copper Vessel,Puja Items,5.99,10,TRUE,120
+Brass Puja Bell,Puja Items,14.99,15,TRUE,90
+Cotton Puja Mat,Puja Items,10.99,10,TRUE,220
+Gita in Leather Bound,Books,24.99,20,TRUE,90
+Wooden Puja Mandap,Puja Items,129.99,25,TRUE,40
+Brass Aarti Lamp,Lighting,18.99,15,TRUE,130
+Clay Havan Kund,Puja Items,39.99,20,TRUE,35
+Havan Samagri Set (Premium),Puja Items,29.99,15,TRUE,160
+Silver Om Pendant,Jewelry,24.99,10,TRUE,180
+Gold-Plated Ganesh Pendant,Jewelry,29.99,15,TRUE,140
+Silver Lakshmi Pendant,Jewelry,34.99,20,TRUE,90
+Silk Puja Dress,Clothing,49.99,25,TRUE,70
+Cotton Puja Thread,Puja Items,2.49,5,TRUE,600
+Natural Gulal,Puja Items,5.99,10,TRUE,320
+Decorative Diya Set,Decor,12.99,15,TRUE,220
+Personalized Puja Gift Set,Gift Sets,34.99,20,TRUE,110
+Complete Puja Essentials Kit,Kits,59.99,25,TRUE,45
+Essential Oil Diffuser for Puja,Aromatherapy,29.99,15,TRUE,160
